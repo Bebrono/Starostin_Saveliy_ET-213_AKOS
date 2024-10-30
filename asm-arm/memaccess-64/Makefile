@@ -1,5 +1,5 @@
 CC:=aarch64-linux-gnu-gcc  # Write it to the PATH
-LINARO_SYSROOT_AARCH64:=<path to sysroot>
+LINARO_SYSROOT_AARCH64:=/usr/aarch64-linux-gnu
 
 all: solution
 
